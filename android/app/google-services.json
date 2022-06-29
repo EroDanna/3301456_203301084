@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457888236155",
+    "project_id": "gamehouse-a5a04",
+    "storage_bucket": "gamehouse-a5a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457888236155:android:a42fcac3289179c5a1d8de",
+        "android_client_info": {
+          "package_name": "com.example.gameproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457888236155-pqll2sj1otk99c9s7a76lkhn4jmfqeo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ1j8qKNxAmZ1miJxcKvfDsoFCNKM4BRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457888236155-pqll2sj1otk99c9s7a76lkhn4jmfqeo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
